@@ -1,7 +1,7 @@
--blog: http://slash-star.tumblr.com
-feed: http://slash-star.tumblr.com/rss
-forge:
-    -https://github.com/Numor
-irc: numor
-name: Kyle Forgaard
-rit_dce: kaf9061
+- blog: http://slash-star.tumblr.com
+  feed: http://slash-star.tumblr.com/rss
+  forges:
+    - https://github.com/Numor
+  irc: numor
+  name: Kyle Forgaard
+  rit_dce: kaf9061
